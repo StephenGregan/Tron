@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\Tron\Tron\bin\Debug\Tron.exe.config
+C:\Users\Ronan\source\repos\Tron\Tron\bin\Debug\Tron.exe
+C:\Users\Ronan\source\repos\Tron\Tron\bin\Debug\Tron.pdb
+C:\Users\Ronan\source\repos\Tron\Tron\obj\Debug\Tron.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\Tron\Tron\obj\Debug\Tron.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\Tron\Tron\obj\Debug\Tron.exe
+C:\Users\Ronan\source\repos\Tron\Tron\obj\Debug\Tron.pdb

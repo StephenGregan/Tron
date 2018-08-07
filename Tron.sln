@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tron", "Tron\Tron.csproj", "{037E4E36-6101-446F-811E-4AB0C00B8C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037E4E36-6101-446F-811E-4AB0C00B8C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037E4E36-6101-446F-811E-4AB0C00B8C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037E4E36-6101-446F-811E-4AB0C00B8C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037E4E36-6101-446F-811E-4AB0C00B8C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A654748-F796-49DD-B71C-88CC471A5945}
+	EndGlobalSection
+EndGlobal
